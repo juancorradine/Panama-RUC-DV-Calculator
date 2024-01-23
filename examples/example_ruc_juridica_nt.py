@@ -1,4 +1,4 @@
-from ruc_juridica_nt import RucJuridicaNT
+from panama_ruc_dv_calculator.ruc_juridica_nt import RucJuridicaNT
 
 try:
     ruc = RucJuridicaNT("5-NT-478-2351")

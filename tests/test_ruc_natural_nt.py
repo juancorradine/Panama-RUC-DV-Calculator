@@ -1,6 +1,6 @@
 import unittest
 import logging
-from ruc_natural_nt import RucNaturalNT
+from panama_ruc_dv_calculator.ruc_natural_nt import RucNaturalNT
 
 test_data = [
     ["0-NT-0-0", "09"],

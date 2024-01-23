@@ -1,6 +1,6 @@
 import unittest
 import logging
-from ruc_juridica_nt import RucJuridicaNT
+from panama_ruc_dv_calculator.ruc_juridica_nt import RucJuridicaNT
 
 test_data = [
     ["0-NT-0-0", "31"],

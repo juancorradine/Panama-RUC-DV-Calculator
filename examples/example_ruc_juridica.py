@@ -1,3 +1,5 @@
+from panama_ruc_dv_calculator.ruc_juridica import RucJuridica
+
 from ruc_juridica import RucJuridica
 
 try:

@@ -1,4 +1,4 @@
-from ruc_natural import RucNatural
+from panama_ruc_dv_calculator.ruc_natural import RucNatural
 
 try:
     ruc = RucNatural("N-1-24")
