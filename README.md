@@ -118,8 +118,8 @@ the dgi folder, explains the algorithm for generating the DV.
 
 ### Pending tasks
 
-* DV generation for properties.
-* On the [página](https://etax2.mef.gob.pa/etax2web) of the DGI for DV validation, there are the letters SB and EE.
+* DV generation for fincas.
+* On the [page](https://etax2.mef.gob.pa/etax2web) of the DGI for DV validation, there are the letters SB and EE.
   There is no documentation on what these letters mean or the algorithm to calculate their DV.
 
 ### Disclaimer
