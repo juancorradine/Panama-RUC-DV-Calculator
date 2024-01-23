@@ -45,7 +45,7 @@ Mas ejemplos en el directorio __examples__.
 #### #1 - Persona Natural
 
 ```
-from ruc_natural import RucNatural
+from panama_ruc_dv_calculator.ruc_natural import RucNatural
 
 try:
     ruc = RucNatural("1-184-921")
@@ -77,7 +77,7 @@ Asiento/Ficha: 921
 #### #2 - Persona Juridica
 
 ```
-from ruc_juridica import RucJuridica
+from panama_ruc_dv_calculator.ruc_juridica import RucJuridica
 
 try:
     ruc = RucJuridica("2588017-1-831938")

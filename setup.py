@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="panama-ruc-dv-calculator",
-    version="1.0.1",
+    version="1.0.2",
     author="Juan Corradine",
     description="A DV calculator for Panama RUC",
     long_description=long_description,
