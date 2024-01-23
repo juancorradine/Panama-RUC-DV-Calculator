@@ -1,0 +1,10 @@
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Compiled files
+*.pyc
+__pycache__/
+/dist/
