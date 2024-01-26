@@ -1,5 +1,5 @@
 from panama_ruc_dv_calculator import calculate_dv_digit
-from provincia import Provincia
+from panama_ruc_dv_calculator.provincia import Provincia
 from dataclasses import dataclass
 
 
