@@ -25,7 +25,7 @@ class RucJuridica:
         folio_imagen = ruc_parts[1]
         asiento_ficha = ruc_parts[2]
 
-        if not rollo_tomo.isnumeric() or len(rollo_tomo) > 8:
+        if not rollo_tomo.isnumeric() or len(rollo_tomo) > 9:
             raise ValueError("Formato de RUC Juridica incorrecto - Rollo/Tomo: " + rollo_tomo)
         if not folio_imagen.isnumeric() or len(folio_imagen) > 4:
             raise ValueError("Formato de RUC Juridica incorrecto - Folio/Imagen: " + folio_imagen)

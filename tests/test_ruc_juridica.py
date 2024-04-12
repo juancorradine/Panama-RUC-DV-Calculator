@@ -4,6 +4,7 @@ from panama_ruc_dv_calculator.ruc_juridica import RucJuridica
 
 test_data = [
     ["0-0-0", "19"],  # Error
+    ["155720753-2-2022", "39"],
     ["2588017-1-831938", "20"],
     ["1489806-1-645353", "68"],
     ["1956569-1-732877", "00"],
